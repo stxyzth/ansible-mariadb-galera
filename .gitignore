@@ -1,0 +1,9 @@
+/.kitchen/
+.kitchen.local.yml
+*.swp
+.bundle/
+vendor/
+.DS_Store
+Gemfile.lock
+hosts
+.idea/
